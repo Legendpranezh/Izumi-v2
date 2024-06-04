@@ -1,6 +1,6 @@
 {
-  "name": "Izumi-xd",
-  "description": "IZUMI-XD Multi Device whatsapp bot",
+  "name": "ＥＲＥＮ ＳＥＲ",
+  "description": "EREN Multi Device whatsapp bot",
   "logo": "https://i.imgur.com/Uc0uIkO.jpeg",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/sataniceypz/Izumi-v2",
@@ -19,17 +19,17 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "𝐄𝐘𝐏𝐙 ; 𝗜𝗭𝗨𝗠𝗜-𝗫𝗗 ; https://telegra.ph/file/c092ab6684953575dac78.jpg"
+      "value": "𝐄𝐘𝐏𝐙 ; ＥＲＥＮ ＳＥＲ ; https://telegra.ph/file/c092ab6684953575dac78.jpg"
      },
      "CAPTION": {
       "description": "enter your media caption",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜-𝗫𝗗"
+      "value": "ＥＲＥＮ ＳＥＲ"
     },
        "STICKER_DATA": {
       "description": "Sticker pack name, eg : 𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙" 
+      "value": "ＥＲＥＮ ＳＥＲ;PRANESH" 
     },
        "ALIVE_IMAGE": {
       "description": "IMAGE FOR ALIVE MESSAGE",
@@ -44,7 +44,7 @@
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙;https://telegra.ph/file/c092ab6684953575dac78.jpg"
+      "value": "ＥＲＥＮ ＳＥＲ;PRANESH;https://telegra.ph/file/c092ab6684953575dac78.jpg"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
@@ -52,7 +52,7 @@
       "value": "false"
     },
     "SUDO": {
-      "description": "add your bot number here for run Izumi🧚‍♂️",
+      "description": "994404843118",
       "required": false
     },
     "WORK_TYPE": {
