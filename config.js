@@ -13,7 +13,7 @@ module.exports = {
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
   ALIVE_IMAGE:process.env.ALIVE_IMAGE || "https://i.imgur.com/PyQ9iOU.jpeg",
   ALIVE_AUDIO:process.env.ALIVE_AUDIO || "https://i.imgur.com/OqY5EmY.mp4",
-  SESSION_ID:process.env.SESSION_ID || "IZUMI-V2~QaTXjnfBTbOQpmhEkIQyz",
+  SESSION_ID:process.env.SESSION_ID || "IZUMI-V2~wFTlWuX3VYh0p7pDdce90",
   LANG: process.env.LANG || "EN",
   HANDLERS: (process.env.HANDLERS || '^[.,!]').trim(),
   BRANCH: "main",
